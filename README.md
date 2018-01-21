@@ -1,3 +1,2 @@
 # helloWorld
-
-message before commit
+making changes 
